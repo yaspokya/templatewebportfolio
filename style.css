@@ -1,0 +1,15 @@
+.jumbotron {
+  /* 
+    apa itu padding ?
+    apa itu rem ?    
+    */
+  background-color: #99ffcc;
+}
+
+#projects {
+  background-color: #99ffcc;
+}
+
+section {
+  padding-top: 5rem;
+}
